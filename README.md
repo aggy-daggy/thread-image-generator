@@ -1,5 +1,7 @@
 # thread-image-generator
 
+![Example of resulting image](https://github.com/aggy-daggy/thread-image-generator/raw/main/agdg_408232032.jpg)
+
 # Requirements
 OpenSSL to generate random hex color
 
