@@ -1,0 +1,31 @@
+/agdg/ - Amateur Game Development General
+
+Template Edition
+
+>Demo Days
+Next: https://itch.io/jam/agdg-demo-day-48
+Previous: https://itch.io/jam/agdg-demo-day-47
+Older: https://rentry.org/agdg-demo-days (edit code: 5GAUHCpz)
+
+>AGDG Jams
+Previous Jams: https://rentry.org/agdg-jams (edit code: 3G2LUh4h)
+
+>AGDG Resources
+https://hackmd.io/dLaaFCjDSveKVeEzqomBJw
+(Anyone can edit and contribute!)
+AGDG Blog: https://blog.agdg2.com
+
+>Helpful links
+New Threads: >>>/vg//agdg/
+Archive: https://arch.b4k.co/vg/search/subject/agdg/
+AGDG Steam Games: https://agdg-steam.netlify.app/
+Legacy AGDG Steam Games: http://homph.com/steam/
+Weekly Recap: http://recap.agdg.io
+AGDG Logo: https://cpaste.org/?bbec690700637251#2Yi4xWRdE65fKD5BroNBqmjskYheswX5Lw8w1mU82oYQ
+New Thread: https://github.com/aggy-daggy/thread-image-generator
+
+>How to WebM
+https://obsproject.com
+https://gitgud.io/nixx/WebMConverter
+
+Last thread >> →
