@@ -2,8 +2,11 @@
 
 # Requirements
 OpenSSL to generate random hex color
+
 FFmpeg to generate WebM thumbnails
+
 ImageMagick to convert and generate image
+
 Python3 to run grab posts
 
 # Usage
