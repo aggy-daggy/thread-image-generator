@@ -13,17 +13,17 @@ Python3 to run grab posts
 
 # Usage
 1. Grab all the images and WebM files from a thread
-
 ```python3 inb4404.py https://boards.4channel.org/vg/thread/REPLACE_WITH_THREAD_ID```
+
 2. Convert PNG/WebM to JPEG and combine them all
 ```bash 2.sh```
+
 
 3. Resize them all to same size
 ```bash 3.sh```
 
-3. Filter out any images from the resized/ folder
 
-4.
+4. Filter out any images from the resized/ folder
+
+5. Generate final image in the results folder
 ```bash 4.sh```
-
-A image will be generated with agdg_THREAD_ID.jpg in the current folder
